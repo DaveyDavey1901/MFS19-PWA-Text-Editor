@@ -11,7 +11,7 @@
  
 ##  Description
 
-In this project we had to produce a tech blog.  The tech blog can be used to record anything new in the web development world hints, tips, reviews, contact links, recommended reads.  anything that could interest another user interested in whats going on and whats out there.
+In this project we had to produce a text editor from starter code that can function both online and offline that used persitant options to ensure there was no loss of data.  The app will use indexedDB and local storage. There is also the option for you to install the app to your computer for offline use.
 
 |<img src="https://user-images.githubusercontent.com/86046871/161641164-4a93b084-3812-4ba9-a3bc-b2f499d05ba3.jpg" width="600">| 
 
