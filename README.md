@@ -29,11 +29,12 @@ click install on the app to install to your local machine or clone the repositor
 ## Contributing People and Resources
 
 Manchester Fullstack BootCamp - Homework 19 starter code and PWA Repo Activities for reference.
+
 David Davies
 
 ## Repository Details and Link.
 
-Feel free to contact me for an improvement ideas
+[GitHub Repo](https://github.com/DaveyDavey1901/MFS19-PWA-Text-Editor)
 
 ## License Link
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Click Badge for License Details.
