@@ -13,7 +13,7 @@
 
 In this project we had to produce a tech blog.  The tech blog can be used to record anything new in the web development world hints, tips, reviews, contact links, recommended reads.  anything that could interest another user interested in whats going on and whats out there.
 
-|<img src="public/images/" width="600">| 
+|<img src="https://user-images.githubusercontent.com/86046871/161641164-4a93b084-3812-4ba9-a3bc-b2f499d05ba3.jpg" width="600">| 
 
 [View the live App Here](https://d-d-text-editor.herokuapp.com/)
 
